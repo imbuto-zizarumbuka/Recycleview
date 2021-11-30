@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="programmming_languages">
+        <item>C++</item>
+        <item>C</item>
+        <item>java</item>
+        <item>javascripty</item>
+        <item>kotlin</item>
+        <item>android</item>
+        <item>node</item>
+        <item>react</item>
+    </string-array>
+    <string-array name="description" >
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+    </string-array>
+</resources>
